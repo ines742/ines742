@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Ines, based in Kansas. 
+I am Ines, based in Kansas and willing to relocate anywhere. 
 
 I’m a junior front-end developer who loves seeing my coding come to life. 
 I enjoy turning designs into fully functional, responsive websites and helping clients build a strong online presence.
